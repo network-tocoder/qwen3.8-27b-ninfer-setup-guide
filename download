@@ -1,0 +1,6 @@
+ninfer-results/
+*.ninfer
+*.log
+*_response*.json
+__pycache__/
+
